@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 I am currently studying Computer Science at the Somaiya University, I have my own Community Named Warriors Matrix and I am even a Community Moderator for Critic Design. I have been interested in Programming and Technology since I was a child and have experience with many different programming languages. My current interests lie in AWS and Cloud Computing, But even from a Programming background i even Learned Figma Designing just for exploring someting out of my Programmer/Developer Field. Just Want a good experience in Programming and Design. In my spare time, I enjoy piano and spending time with my family and friends.
 
-- 🔭 I’m currently working for [Critic Design](https://criticdesigns.com/)
+- 🔭 I’m currently Moderator @ [Critic Design](https://criticdesigns.com/)
 
 - 🌱 I’m currently learning **React, Reactnative and DBMS**
 
