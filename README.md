@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 ## Known Languages and Tools:
 Programming Languages:
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<p style="display: flex; width: 40%; justify-content: space-between; align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80274814/199768999-a278ed23-f194-49a2-9493-f1ec5e65cd54.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80274814/199768277-777c1681-61cc-461a-b2f7-432f57b7f825.svg" alt="kotlin" width="40" height="40"/> </a> 
