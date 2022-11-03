@@ -45,7 +45,7 @@ ________________________________________________________________________________
 <a href="https://steamcommunity.com/id/Cyberwarrior_Matrix/" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199795869-091ffaf1-0dc3-4baa-827f-329e9a42d628.svg" height="30" /> </a>
 
 ___________________________________________________________________________________________________________________________________
-## Snake Eating my Contribution graph
+## Snake Eating my Contribution graph:
 
 ![snake gif](https://github.com/CyberWarrior743/CyberWarrior743/blob/output/github-contribution-grid-snake.svg)
 
