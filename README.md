@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm Bhavya Pandya AKA CyberWarrior👋
+## 🧑🏻‍💻Hey everyone, I'm Bhavya Pandya AKA CyberWarrior🧑🏻‍💻
 _______________________________________________________________________________________________________________________________________________________________________
 ![giphy](https://user-images.githubusercontent.com/80274814/199753248-fc2847fa-2574-4864-8189-5d8bf5f46fb5.gif)
 
@@ -48,4 +48,14 @@ ________________________________________________________________________________
 ## Snake Eating my Contribution graph:
 
 ![snake gif](https://github.com/CyberWarrior743/CyberWarrior743/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+
+
 
