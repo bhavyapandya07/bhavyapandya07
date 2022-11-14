@@ -6,9 +6,9 @@ I am currently studying Computer Science at the Somaiya University, I have my ow
 
 - 🔭 I’m currently Moderator @ [Critic Design](https://criticdesigns.com/)
 
-- 🌱 I’m currently learning **React, Reactnative and DBMS**
+- 🌱 I’m currently learning **DSA, AWS and DBMS**
 
-- 👯 I’m looking to collaborate on **DSA and AWS**
+- 👯 I’m looking to collaborate on **React and Reactnative**
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## Known Languages and Tools:
