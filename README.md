@@ -2,7 +2,8 @@
 _______________________________________________________________________________________________________________________________________________________________________
 ![giphy](https://user-images.githubusercontent.com/80274814/199753248-fc2847fa-2574-4864-8189-5d8bf5f46fb5.gif)
 
-I am currently studying Computer Science at the Somaiya University, I have my own Community Named Warriors Matrix and I am even a Community Moderator for Critic Design. I have been interested in Programming and Technology since I was a child and have experience with many different programming languages. My current interests lie in DSA, AWS and DBMS, I’m looking to collaborate in React, Reactnative and Cloud Computing, But even from a Programming background i even Learned Figma Designing just for exploring something out of my Programmer/Developer Field. Just Want a good experience in Programming and Designing. In my spare time, I enjoy piano and spending time with my family and friends.
+“Warriors don't allow the word QUIT in their dictionary because they know the art of staying positive in any kind of negative situation." 
+<br>"BE A Warrior”
 
 - 🔭 I’m currently Moderator @ [Critic Design](https://criticdesigns.com/)
 
