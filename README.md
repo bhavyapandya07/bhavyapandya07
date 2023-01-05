@@ -44,7 +44,7 @@ ________________________________________________________________________________
 <a href="https://twitter.com/0Cyberwarrior1" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199778794-e1cc6e38-7873-4e95-80ef-1b04d4857aa7.svg" title = "Twitter" alt="" height="30" /> </a>
 <a href="https://www.linkedin.com/in/bhavyapandya07/" target="blank"> <img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /> </a>
 <a href="http://instagram.com/Cyberwarrior1.0" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199779516-e166dba1-b28e-405d-8ecd-0b7bca9f8d68.svg" alt="" height="30" /> </a>
-<a href="https://account.beacons.ai/account/home/home" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199801574-afa82601-2a5c-4982-b488-0df5efc97800.svg" alt="" height="30" /> </a>
+<a href="https://beacons.ai/cyberwarrior" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199801574-afa82601-2a5c-4982-b488-0df5efc97800.svg" alt="" height="30" /> </a>
   
 ## I'm a gamer too, so you might find me on:
 <p align="left">
