@@ -1,6 +1,6 @@
 ## 🧑🏻‍💻Hey everyone, I'm Bhavya Pandya AKA CyberWarrior🧑🏻‍💻
 _______________________________________________________________________________________________________________________________________________________________________
-<img width="1584" alt="Group 298" src="https://user-images.githubusercontent.com/80274814/210712969-d4924051-b475-4a29-8455-c5d85500b0fb.png">
+<img width="1584" alt="Frame 73" src="https://user-images.githubusercontent.com/80274814/220732778-8255b286-e9c5-479c-9b0b-a3590c52a016.png">
 
 
 “Warriors don't allow the word QUIT in their dictionary because they know the art of staying positive in any kind of negative situation." 
