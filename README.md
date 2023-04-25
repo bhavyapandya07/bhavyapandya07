@@ -32,6 +32,7 @@ Tools and Softwares:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80274814/199768468-e009f1dc-ca8e-4b35-97cf-bb1be2f96527.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80274814/199767471-b08266ac-1921-4edf-a98e-83894d039892.svg" alt="Excel" width="40" height="40"/> </a>
+
 ________________________________________________________________________________________________________________________________________________________
 
 ## Find me all around the web:
