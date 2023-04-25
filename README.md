@@ -6,7 +6,7 @@ ________________________________________________________________________________
 “Warriors don't allow the word QUIT in their dictionary because they know the art of staying positive in any kind of negative situation." 
 <br>"BE A Warrior”
 
-❏ 🔭 I’m currently Moderator @ [Critic Design](https://criticdesigns.com/)
+❏ 🔭 I’m currently Adminstrator @ [Critic Design](https://criticdesigns.com/)
 
 ❏ 🌱 I’m currently learning **DSA, AWS and DBMS**
 
