@@ -1,6 +1,6 @@
 ## 🧑🏻‍💻Hey everyone, I'm Bhavya Pandya AKA CyberWarrior🧑🏻‍💻
 _______________________________________________________________________________________________________________________________________________________________________
-<img width="1584" alt="Frame 73" src="https://user-images.githubusercontent.com/80274814/220732778-8255b286-e9c5-479c-9b0b-a3590c52a016.png">
+<img width="1584" alt="Group 299" src="https://user-images.githubusercontent.com/80274814/234320096-797891b3-87a6-46db-947f-d2b5a11a9285.png">
 
 
 “Warriors don't allow the word QUIT in their dictionary because they know the art of staying positive in any kind of negative situation." 
@@ -32,11 +32,6 @@ Tools and Softwares:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80274814/199768468-e009f1dc-ca8e-4b35-97cf-bb1be2f96527.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80274814/199767471-b08266ac-1921-4edf-a98e-83894d039892.svg" alt="Excel" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/80274814/199778341-9a6409b1-2c11-41cd-92b3-756adf416214.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-
-
 ________________________________________________________________________________________________________________________________________________________
 
 ## Find me all around the web:
