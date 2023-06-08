@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ❏ 🌱 I’m currently learning **DSA, AWS and DBMS**
 
-❏ 👯 I’m looking to collaborate on **React, Reactnative and Cloud Computing**
+❏ 👯 I’m looking to collaborate on **React, Ai and Cloud Computing**
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## Known Languages and Tools:
