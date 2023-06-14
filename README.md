@@ -39,7 +39,7 @@ ________________________________________________________________________________
 <a href="https://twitter.com/0Cyberwarrior1" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199778794-e1cc6e38-7873-4e95-80ef-1b04d4857aa7.svg" title = "Twitter" alt="" height="40" /> </a>
 <a href="https://www.linkedin.com/in/bhavyapandya07/" target="blank"> <img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="40" /> </a>
 <a href="http://instagram.com/Cyberwarrior1.0" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199779516-e166dba1-b28e-405d-8ecd-0b7bca9f8d68.svg" alt="" height="40" /> </a>
-<a href="https://bento.me/bhavyapandya" target="blank"> <img align="center" src="https://github.com/CyberWarrior743/CyberWarrior743/assets/80274814/093ca17e-62fd-44cc-a986-4a6a67b98d19" alt="" height="40" /> </a>
+<a href="https://bento.me/bhavyapandya" target="blank"> <img align="center" src="https://global-uploads.webflow.com/6335b33630f88833a92915fc/63860225045ce50e33d20eb3_Logo.svg" alt="" height="40" /> </a>
   
 ## I'm a gamer too, so you might find me on:
 <p align="left">
