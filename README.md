@@ -5,13 +5,19 @@ ________________________________________________________________________________
 “Warriors don't allow the word QUIT in their dictionary because they know the art of staying positive in any kind of negative situation." 
 <br>"BE A Warrior”
 
-❏ 🔭 I’m currently Community Manager @ [Critic Design](https://criticdesigns.com/), @ [Crito Design](https://crito.design/) and @ [SEO Content AI](https://seocontent.ai/)
-
 ❏ 🌱 I am a Developer and Designer
 
-❏ 👯 I’m looking to collaborate on AI, Analytics and Flutter
+❏ ✨ I’m looking to collaborate on AI Automation, No-Code & Framer
 
-❏ ✉️ You can contact me at bhavya@crito.design
+❏ ✉️ You can contact me at bhavyapandya07@gmail.com
+
+❏ 🤝 Communities Managing / Partnership
+- [SEO Content AI](https://seocontent.ai/) 4.5K+ Members
+- [Content Match](https://contentmatch.io/) 3.7K+ Members
+- [Critic Design](https://criticdesigns.com/) 1.5K+ Members
+- [Aimset](https://www.aimset.io/) 600+ Members
+- [Crito Design](https://crito.design/) 300+ Members
+- [The One Network](https://www.theonenetwork.app/) 300+ Members
 
 Passionate about technology since childhood, I am skilled in coding and design. With the magic of no-code, I craft digital melodies that users not only love but also dance with joy.
 _______________________________________________________________________________________________________________________________________________________________________
