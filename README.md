@@ -1,6 +1,7 @@
 ## 🧑🏻‍💻Hey everyone, I'm Bhavya Pandya AKA CyberWarrior🧑🏻‍💻
 _______________________________________________________________________________________________________________________________________________________________________
-![Pink and Purple Professional LinkedIn Banner (1)](https://github.com/CyberWarrior743/CyberWarrior743/assets/80274814/86665b44-60ad-4450-9e1b-64f1b8a7b0fb)
+![Group 1410075155](https://github.com/user-attachments/assets/b5e73512-f7ef-49dc-9ec5-a40d70a4a478)
+
 
 “Warriors don't allow the word QUIT in their dictionary because they know the art of staying positive in any kind of negative situation." 
 <br>"BE A Warrior”
