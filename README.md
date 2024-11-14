@@ -13,12 +13,13 @@ ________________________________________________________________________________
 ❏ ✉️ You can contact me at bhavyapandya07@gmail.com
 
 ❏ 🤝 Communities Managing / Partnership
-- [SEO Content AI](https://seocontent.ai/) 4.5K+ Members
-- [Content Match](https://contentmatch.io/) 3.7K+ Members
-- [Critic Design](https://criticdesigns.com/) 1.5K+ Members
-- [Aimset](https://www.aimset.io/) 600+ Members
-- [Crito Design](https://crito.design/) 300+ Members
-- [The One Network](https://www.theonenetwork.app/) 300+ Members
+- [SEO Content AI](https://seocontent.ai/) 4.7K+ Members
+- [Content Match](https://contentmatch.io/) 3.5K+ Members
+- [Critic Design](https://criticdesigns.com/) 1.9K+ Members
+- [Crito Design](https://crito.design/) 350+ Members
+- [Vibrato](https://www.getvibrato.com/) 300+ Members
+- [SEO Forge AI](https://seoforge.ai/) 80+ Members
+- [Reeler AI](https://reelerai.com/) 40+ Members
 
 Passionate about technology since childhood, I am skilled in coding and design. With the magic of no-code, I craft digital melodies that users not only love but also dance with joy.
 _______________________________________________________________________________________________________________________________________________________________________
