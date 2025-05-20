@@ -57,7 +57,7 @@ ________________________________________________________________________________
   
 ## I'm a gamer too, so you might find me on:
 <p align="left">
-<a href="https://discord.gg/hHSUZaD5W4" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199780662-0b75c3ad-fbdc-40cd-b0c2-3c0aaaff3359.svg" height="40" /> </a>
+<a href="https://discordapp.com/users/602415706105053214" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199780662-0b75c3ad-fbdc-40cd-b0c2-3c0aaaff3359.svg" height="40" /> </a>
 <a href="CyberWarrior1.0" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199794182-150e7614-cf20-469e-998d-b8826b322a68.svg" height="40" /> </a> 
 <a href="https://steamcommunity.com/id/Cyberwarrior_Matrix/" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/80274814/199795869-091ffaf1-0dc3-4baa-827f-329e9a42d628.svg" height="40" /> </a>
 
