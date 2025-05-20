@@ -6,9 +6,11 @@ ________________________________________________________________________________
 “Warriors don't allow the word QUIT in their dictionary because they know the art of staying positive in any kind of negative situation." 
 <br>"BE A Warrior”
 
-❏ 🌱 I am a Developer and Designer
+❏ 🌱 I am a No-Code Developer and Designer
 
 ❏ ✨ I’m looking to collaborate on AI Automation, No-Code & Framer
+
+❏ 🎖️ Official Framer and Voiceflow Partner
 
 ❏ ✉️ You can contact me at bhavyapandya07@gmail.com
 
