@@ -102,6 +102,20 @@
 </a>
 </p>
 
+#### 📊 Analytics & Reporting
+<div class="tool-row">
+  <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-google-analytics-2038769-1721667.png?f=webp&w=256" alt="Google Analytics" width="48" height="48"/>
+  </a>
+  <a href="https://search.google.com/search-console/about" target="_blank" rel="noreferrer">
+    <img src="https://brandlogos.net/wp-content/uploads/2025/07/google_search_console_icon-vector_brandlogos.net_hxtfr-512x512.png" alt="Google Search Console" width="48" height="48"/>
+  </a>
+  <a href="https://clarity.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://store-images.s-microsoft.com/image/apps.29332.512b1d3d-80ec-4aec-83bb-411008d2f7cd.76371b6f-9386-463f-bfb0-b75cffb86a4f.bd99f4b1-b18e-4380-aa79-93768763c90d.png" alt="Microsoft Clarity" width="48" height="48"/>
+  </a>
+</div>
+
+
 #### 📊 Productivity & Content
 <p>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
@@ -133,9 +147,17 @@
 
 <br>
 
-<h2>🌟 Community Leadership & Socials</h2> 
-<h4>Building & Leading Amazing Communities</h3>
-<table> <tr> <th>Community</th> <th>Members</th> </tr> <tr> <td>SEO Content AI</td> <td>4,700+</td> </tr> <tr> <td>Content Match</td> <td>3,500+</td> </tr> <tr> <td>Critic Design</td> <td>1,900+</td> </tr> <tr> <td>Crito Design</td> <td>350+</td> </tr> <tr> <td>Vibrato</td> <td>300+</td> </tr> <tr> <td>SEO Forge AI</td> <td>80+</td> </tr> <tr> <td>Reeler AI</td> <td>40+</td> </tr> </table> </div> <div align="center">
+<h2>🤝 Communities Managed / Partnership</h2> 
+<table>
+  <tr> <th>Community</th> <th>Members</th> </tr>
+  <tr> <td>SEO Content AI</td> <td>4,700+</td> </tr>
+  <tr> <td>Content Match</td> <td>3,500+</td> </tr>
+  <tr> <td>Critic Design</td> <td>1,900+</td> </tr>
+  <tr> <td>Crito Design</td> <td>350+</td> </tr>
+  <tr> <td>Vibrato</td> <td>300+</td> </tr>
+  <tr> <td>SEO Forge AI</td> <td>80+</td> </tr>
+  <tr> <td>Reeler AI</td> <td>40+</td> </tr>
+</table> </div> <div align="center">
 
 <br>
 
