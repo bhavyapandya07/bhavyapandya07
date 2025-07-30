@@ -48,7 +48,7 @@
 </a>
 </p>
 
-#### 🎨 Design & No-Code Tools
+#### 🎨 Design & Code Tools
 <p>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
