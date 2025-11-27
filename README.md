@@ -5,11 +5,11 @@
 <img src="https://raw.githubusercontent.com/username/username/main/assets/header-animation.gif" alt="Header Animation" width="100%" height="200"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=No-Code+Developer+%26+Designer;Official+Framer+%26+Voiceflow+Partner;Building+MVPs+in+30+Days;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Designer+%26+AI-First+Developer;Official+Framer+%26+Voiceflow+Partner;Building+MVPs+in+30+Days;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🎯_Focus-No--Code%20%26%20Design-blueviolet?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎯_Focus-Designer%20%26%20AI--First--Developer-blueviolet?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/🚀_Mission-MVP%20in%2030%20Days-success?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/📍_Location-Mumbai,%20India-orange?style=for-the-badge&logoColor=white"/>
 </p>
@@ -84,8 +84,11 @@
 <a href="https://cursor.sh/" target="_blank" rel="noreferrer">
 <img src="https://cursor.sh/favicon.ico" alt="Cursor" width="48" height="48"/>
 </a>
-<a href="https://www.make.com/" target="_blank" rel="noreferrer">
-<img src="https://pageflows.com/media/logos/make.jpg" alt="Make.com" width="48" height="48"/>
+<a href="https://antigravity.google/" target="_blank" rel="noreferrer">
+<img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=2147483647&v=beta&t=09EGMp77uIgS77oquLNRli_4mMEV8oGvXklIXLBP6YM" alt="Google Anti-Gravity" width="48" height="48"/>
+</a>
+<a href="https://n8n.io/" target="_blank" rel="noreferrer">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR606fHc0plOwiOtKYGK30C3oNPPQjRdy4CJQ&s" alt="n8n" width="48" height="48"/>
 </a>
 </p>
 
