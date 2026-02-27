@@ -190,7 +190,7 @@
 <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
 <a href="https://www.producthunt.com/" target="_blank" rel="noreferrer">
-<img src="https://ph-static.imgix.net/ph-ios-icon.png" alt="Product Hunt" width="48" height="48"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/product-hunt-logo-icon.png" alt="Product Hunt" width="48" height="48"/>
 </a>
 <a href="http://instagram.com/Cyberwarrior1.0" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
