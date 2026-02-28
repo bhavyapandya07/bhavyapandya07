@@ -16,7 +16,7 @@ Also with the magic of no-code & AI, I craft digital melodies that users not onl
 
 🧠 **Focus:** Falling into the void of knowledge across coding, design, AI orchestration, and no-code tools.
 
-📫 **Reach me at:** [bhavyapandya.in](https://bhavyapandya.in)
+📫 **Reach me at:** [Google Meet Link](https://cal.com/bhavyapandya/30m)
 
 > *"A wise man once told me, that your network is your networth."*
 
