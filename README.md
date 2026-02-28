@@ -36,7 +36,7 @@ Also with the magic of no-code & AI, I craft digital melodies that users not onl
 
 <br>
 
-## 💻 The Tech I Drive
+## 💻 The Tools Behind The Build
 
 #### Code & Backend
 <p><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" height="48"/></a> <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48"/></a> <a href="https://lovable.dev/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysfvFgHMVChk-7glLKWvdIJLLoA2aau0m1g&s" alt="Lovable" width="48" height="48"/></a></p>
@@ -66,7 +66,7 @@ When I'm not building platforms or collaborating with industry rockstars, you ca
 
 <br>
 
-<h2>🤝 Communities Managed / Partnerships</h2> 
+<h2>🤝 The Community Hubs</h2> 
 
 <table>
   <tr> 
@@ -118,19 +118,19 @@ When I'm not building platforms or collaborating with industry rockstars, you ca
 
 <br>
 
-#### 🌐 Let's Connect & Collaborate
+#### 🌐 Want to get in touch?
 <p>
 <a href="https://x.com/bhavyapandya07" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" /></a> <a href="https://www.linkedin.com/in/bhavyapandya07/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a> <a href="https://medium.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="Medium" width="48" height="48"/></a> <a href="https://discordapp.com/users/602415706105053214" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a> <a href="https://www.producthunt.com/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/product-hunt-logo-icon.png" alt="Product Hunt" width="48" height="48"/></a> <a href="http://instagram.com/cyberwarrior1.0" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a> <a href="http://instagram.com/drivenby.quotes" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a> <a href="mailto:bhavyapandya07@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
 
-#### 🎮 Gaming Universe
+#### 🎮 Let's Play some Games together
 <p>
 <a href="https://steamcommunity.com/id/Cyberwarrior_Matrix/" target="_blank" rel="noreferrer"><img src="https://store.steampowered.com/favicon.ico" alt="Steam" width="48" height="48"/></a> <a href="https://www.epicgames.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/80274814/199794182-150e7614-cf20-469e-998d-b8826b322a68.svg" alt="Epic Games" width="48" height="48" /></a>
 </p>
 
 <br>
 
-## Snake Eating my Contribution graph:
+## 🐍 Snake Eating my Contribution graph:
 
 </div>
 
