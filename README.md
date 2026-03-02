@@ -120,7 +120,14 @@ When I'm not building platforms or collaborating with industry rockstars, you ca
 
 #### 🌐 Want to get in touch?
 <p>
-<a href="https://x.com/bhavyapandya07" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" /></a> <a href="https://www.linkedin.com/in/bhavyapandya07/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a> <a href="https://medium.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="Medium" width="48" height="48"/></a> <a href="https://discordapp.com/users/602415706105053214" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a> <a href="https://www.producthunt.com/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/product-hunt-logo-icon.png" alt="Product Hunt" width="48" height="48"/></a> <a href="http://instagram.com/cyberwarrior1.0" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a> <a href="http://instagram.com/drivenby.quotes" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a> <a href="mailto:bhavyapandya07@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+<a href="https://x.com/bhavyapandya07" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" /></a>
+<a href="https://www.linkedin.com/in/bhavyapandya07/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://medium.com/@bhavyapandya07" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="Medium" width="48" height="48"/></a>
+<a href="https://discordapp.com/users/602415706105053214" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+<a href="https://www.producthunt.com/@bhavyapandya" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/product-hunt-logo-icon.png" alt="Product Hunt" width="48" height="48"/></a>
+<a href="http://instagram.com/cyberwarrior1.0" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+<a href="http://instagram.com/drivenby.quotes" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+<a href="mailto:bhavyapandya07@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
 
 #### 🎮 Let's Play some Games together
