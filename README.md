@@ -130,10 +130,8 @@ When I'm not building platforms or collaborating with industry rockstars, you ca
 
 <br>
 
-## 🐍 Snake Eating my Contribution graph:
+## 🔫 Live footage of me fighting bugs at 2 AM:
 
 </div>
 
 ![My GitHub Game](game.gif)
-
-![snake gif](https://github.com/CyberWarrior743/CyberWarrior743/blob/output/github-contribution-grid-snake-dark.svg)
