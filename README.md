@@ -134,4 +134,6 @@ When I'm not building platforms or collaborating with industry rockstars, you ca
 
 </div>
 
+![My GitHub Game](game.gif)
+
 ![snake gif](https://github.com/CyberWarrior743/CyberWarrior743/blob/output/github-contribution-grid-snake-dark.svg)
