@@ -1,4 +1,4 @@
-# Hi there, I'm Bhavya Pandya 👋🏻 ![Profile Visits](https://komarev.com/ghpvc/?username=bhavyapandya07&style=plastic&color=00ff00&label=SYSTEM+VISITS)
+# Hi there, I'm Bhavya Pandya 👋🏻 ![Profile Visits](https://komarev.com/ghpvc/?username=bhavyapandya07&style=plastic&color=00ff00&label=PROFILE+VISITS)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&vCenter=true&width=600&lines=AI+Orchestration+%26+Agentic+Workflows;Official+Framer+%26+Voiceflow+Partner;Designer+and+AI+First+Developer" alt="Typing SVG" />
 
