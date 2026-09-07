@@ -1,6 +1,6 @@
 # Hi there, I'm Bhavya Pandya 👋🏻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&vCenter=true&width=600&lines=AI+Orchestration+%26+Agentic+Workflows;Official+Framer+%26+Voiceflow+Partner;Designer+and+AI+First+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&vCenter=true&width=600&lines=Design+Engineer+%26+FD+Product+Manager;Official+Framer+%26+Voiceflow+Partner;Agentic+Orchestration+%26+AI+Enabler" alt="Typing SVG" />
 
 Also with the magic of no-code & AI, I craft digital melodies that users not only love but also waltz with joy!
 
