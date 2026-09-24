@@ -66,7 +66,7 @@ When I'm not building platforms or collaborating with industry rockstars, you ca
 
 <br>
 
-<h2>🤝 The Community Hubs</h2> 
+<h2>🤝 The Communities Managed/Partnered</h2> 
 
 <table>
   <tr> 
